@@ -32,6 +32,6 @@
 
 
 ## ❤️ Support
-- If you find my work interesting or have any questions, feel free to email me.
+- If you find my work interesting or have any questions, you can email me.
 
 ### Thanks for visiting! 😊
