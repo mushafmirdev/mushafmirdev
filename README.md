@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ AI/Robotics Engineer | Graphic Designer @MLSASZABIST-ISB <br>
+✨ AI/Robotics Engineer |Designer @MLSASZABIST-ISB <br>
 ⚡ Check my ✨ [Website]
 📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
 👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
