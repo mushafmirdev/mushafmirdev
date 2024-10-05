@@ -1,37 +1,20 @@
-# Hi 👋, I'm Mushaf Ali
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mushafmir/">Mushaf Ali</a> </h1> 
 
-## About Me
-- 👋 Hey there! I'm Mushaf Ali, a passionate AI/ML developer based in Rawalpindi, Pakistan.
-- 👩‍💻 With a love for problem-solving and a keen eye for detail, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
-- 🚀 #CodeArt #FrontendMagic #BackendMagic
-- 🚀 I'm a C++ and Python enthusiast.
-- 🌱 Currently exploring the world of Artificial Intelligence with a focus on Deep Learning & NLP.
-- 💬 Feel free to reach out to me through my email: mushafalimeer13579@gmail.com.
-- ⚡ Fun fact: I love solving complex coding challenges and puzzles.
-- 📐 Strong understanding of web accessibility and best coding practices.
-- 🌐 Passionate about staying up-to-date with the latest AI/ML technologies.
-- 🇵🇰 Proudly representing my Pakistani heritage and location.
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://mushafmirdev.github.io/portfolio/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/mushafmir/">LinkedIn</a> - 
+  <a href="https://x.com/Mushafmir1850">Twitter</a> -
+  <a href="https://mushafmirdev.github.io/portfolio/">Website</a> -
+  <a href="https://topmate.io/mushaf_ali">Contact me</a> 
+</p> 
 
-## What's Next
-- 🌱 I'm always eager to learn and grow in the ever-evolving world of web development. Let's collaborate, create, and make the web a better place, one line of code at a time. Feel free to explore and contribute to my projects!
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ AI/Robotics Engineer | Graphic Designer @MLSASZABIST-ISB <br>
+⚡ Check my ✨ [Website]
+📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
+👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
+💬 Ask me about AI/Graphic Designing.<br>
+<!--- Adding Tech Stack open Section -->
 
-## Technologies
-- 🧰 Microsoft Learn
-- 🐙 Git
-- :octocat: GitHub
-
-## My Repositories
-- C++ Basic Movie Selection Projects, etc.
-
-## Must Visit:- [Portfolio](https://mushafmirdev.github.io/portfolio/)
-
-## Connect with Me
-- 🌐 **Social Media:**
-  - [Facebook](https://www.facebook.com/mirgraphics1)
-  - [LinkedIn](https://www.linkedin.com/in/mushafmir/)
-
-
-## ❤️ Support
-- If you find my work interesting or have any questions, you can email me.
-
-### Thanks for visiting! 😊
