@@ -16,5 +16,24 @@
 📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
 👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
 💬 Ask me about AI/Graphic Designing.<br>
+## GitHub Status
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushafmirdev&theme=tokyonight"  align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mushafmirdev&theme=tokyonight" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=mushafmirdev&show_icons=true&hide_border=true&theme=react" >
+
+## Languages Status
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mushafmirdev&theme=tokyonight"  align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushafmirdev&theme=tokyonight"  >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mushafmirdev&theme=tokyonight" >
+
+
+## Contribution Graph
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=mushafmirdev&theme=react-dark" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushafmirdev&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushafmirdev&theme=tokyonight">
+
 <!--- Adding Tech Stack open Section -->
 
