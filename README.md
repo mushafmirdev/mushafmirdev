@@ -16,14 +16,14 @@
 📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
 👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
 💬 Ask me about AI/Graphic Designing.<br>
+
+
+
 ## GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushafmirdev&theme=tokyonight"  align="left" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mushafmirdev&theme=tokyonight" >
 <img  src="https://github-stats-lemon.vercel.app/api?username=mushafmirdev&show_icons=true&hide_border=true&theme=react" >
-
-
-
 
 ## Languages Status
 
