@@ -39,4 +39,10 @@
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushafmirdev&theme=tokyonight">
 
 <!--- Adding Tech Stack open Section -->
+## 🏆 My Trophies
+![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=inayatrahimdev&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
