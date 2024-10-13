@@ -24,8 +24,8 @@
 ## GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushafmirdev&theme=tokyonight"  align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mushafmirdev&theme=tokyonight" >
 <img  src="https://github-stats-lemon.vercel.app/api?username=mushafmirdev&show_icons=true&hide_border=true&theme=react" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mushafmirdev&theme=tokyonight" >
 
 ## Languages Status
 
