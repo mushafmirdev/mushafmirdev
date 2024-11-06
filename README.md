@@ -42,9 +42,9 @@
 
 <!--- Adding Tech Stack open Section -->
 ## 🏆 My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
+![My Trophies](https://github-profile-trophy.vercel.app/?username=mushafmirdev)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=inayatrahimdev&icon=0&color=3)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=mushafmirdev&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
