@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://mushafmirdev.github.io/portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/mushafmir/">LinkedIn</a> - 
-  <a href="https://x.com/Mushafmir1850">Twitter</a> -
+  <a href="https://x.com/imushafalee">Twitter</a> -
   <a href="https://mushafmirdev.github.io/portfolio/">Website</a> -
   <a href="https://topmate.io/mushaf_ali">Contact me</a> 
 </p> 
