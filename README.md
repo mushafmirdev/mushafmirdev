@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://mushafmirdev.github.io/portfolio/">Portfolio</a> -
+  <a href="https://mushafmirdev.github.io/MyProfile/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/mushafmir/">LinkedIn</a> - 
   <a href="https://x.com/imushafalee">Twitter</a> -
   <a href="https://mushafmirdev.github.io/portfolio/">Website</a> -
