@@ -2,17 +2,17 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://mushafali.live">Portfolio</a> -
+  <a href="https://mushafali.netlify.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/mushafmir/">LinkedIn</a> - 
   <a href="https://x.com/imushafalee">Twitter</a> -
-  <a href="https://mushafmirdev.github.io/portfolio/">Website</a> -
+  <a href="https://mushafali.netlify.app/">Website</a> -
   <a href="https://topmate.io/mushaf_ali">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ AI/Robotics enthusiast | Designer @MLSASZABIST-ISB <br>
-⚡ Check my ✨ [Website](https://mushafali.live)
+⚡ Check my ✨ [Website](https://mushafali.netlify.app/)
 📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
 👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
 💬 Ask me about AI/Graphic Designing.<br>
