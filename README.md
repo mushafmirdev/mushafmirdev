@@ -18,9 +18,18 @@
 💬 Ask me about AI/Graphic Designing.<br>
 
 <br><br>
-<br><br>
+<br>
 <br><br>
 
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,java,py,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux,angular,django,vue,sqlite&theme=dark" />
+  </a>
+
+</p>
+
+<br>
 ## GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushafmirdev&theme=tokyonight"  align="left" >
