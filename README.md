@@ -24,7 +24,7 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cpp,java,py,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux,angular,django,vue,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,java,py,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,vercel,vscode,linux,sqlite&theme=dark" />
   </a>
 
 </p>
